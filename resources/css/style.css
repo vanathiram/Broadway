@@ -1,0 +1,54 @@
+body
+{
+  font-family: helvetica;
+  text-align: center;
+  font-weight: bold;
+}
+.topic1
+{
+  color:white;
+  background-image:url("file:///c:/vanathi/projects/Broadway/resources/images/the-flatiron-building.png");
+  background-position:center;
+  font-size:18px;
+  background-size: cover;
+}
+h1
+{
+  font-size:70px;
+}
+h2
+{
+  font-size:32px;
+}
+h3
+{
+  font-size: 23px;
+}
+.newyork
+{
+  font-size: 23px;
+  color:white;
+  background-image:url("file:///c:/vanathi/projects/Broadway/resources/images/the-flatiron-building.png");
+  background-position:center;
+}
+
+h4
+{
+  color:white;
+  text-align: left;
+  font-size:11px;
+  background-color: dimgray;
+}
+.white
+{
+  background-color: white;
+}
+.topic2
+{
+  font-size: 14px;
+  font-weight: normal;
+}
+.zoom
+{
+zoom=50%;
+}
