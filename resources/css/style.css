@@ -9,8 +9,9 @@ body
   color:white;
   background-image:url("file:///c:/vanathi/projects/Broadway/resources/images/the-flatiron-building.png");
   background-position:center;
+  background-size:100% 100%;
   font-size:18px;
-  background-size: cover;
+
 }
 h1
 {
@@ -30,6 +31,7 @@ h3
   color:white;
   background-image:url("file:///c:/vanathi/projects/Broadway/resources/images/the-flatiron-building.png");
   background-position:center;
+  background-size: 100%;
 }
 
 h4
