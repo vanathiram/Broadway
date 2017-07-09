@@ -3,15 +3,16 @@ body
   font-family: helvetica;
   text-align: center;
   font-weight: bold;
+  font-size: 14px;
 }
 .topic1
 {
   color:white;
   background-image:url("file:///c:/vanathi/projects/Broadway/resources/images/the-flatiron-building.png");
-  background-position:center;
   background-size:100% 100%;
+  background-position: center;
   font-size:18px;
-
+  font-weight:normal;
 }
 h1
 {
@@ -25,13 +26,16 @@ h3
 {
   font-size: 23px;
 }
+p{
+  font-weight: normal;
+}
 .newyork
 {
   font-size: 23px;
   color:white;
   background-image:url("file:///c:/vanathi/projects/Broadway/resources/images/the-flatiron-building.png");
-  background-position:center;
-  background-size: 100%;
+  background-size: 100% ;
+  background-position: center;
 }
 
 h4
@@ -41,16 +45,9 @@ h4
   font-size:11px;
   background-color: dimgray;
 }
-.white
-{
-  background-color: white;
+
 }
 .topic2
 {
-  font-size: 14px;
   font-weight: normal;
-}
-.zoom
-{
-zoom=50%;
 }
